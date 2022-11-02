@@ -1,2 +1,3 @@
 Hi
+Inserted before merge
 added 2nd time 
