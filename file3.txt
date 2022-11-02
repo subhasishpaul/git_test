@@ -1,1 +1,2 @@
 Merge testing.
+Before stash, inserted line not visible
